@@ -1,0 +1,2 @@
+we learning git
+git is shared repo
