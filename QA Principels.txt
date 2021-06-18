@@ -1,0 +1,29 @@
+Principle 1- Testing shows presence of defects
+You can do multiple types of testing you can never ensure that software is 100% bug-free.
+Example- Samsung note 7 overheating and catching fire.
+
+Principle 2- Exhaustive testing is not possible
+Exhaustive testing is impossible means the software can test only some test cases and assume that software is Correct and it will produce the correct output in every test cases.
+Example- When Covid started lot of people needed to apply for unemployment and unemployment website kept crashing because too much load.
+
+Principle 3- Early testing
+The defects detected in early phases of SDLC cost less. For better performance of software testing will start at initial phase.
+Example-Disease like Diabetes must be detected early so people can start taking precautions because later you find it worst it can be.
+
+Principle 4- Defect clustering
+In a project a small number of the module can contain most of the defects.
+Example- If retail store is having problem with inventory being short then they should increase their Security.
+
+Principle 5- Pesticide paradox
+Repeating the same test again and again will lose its ability or not find bugs.
+It's necessary to review the test cases and update them to find bugs.
+Example- Shoe store must evolve with new and upcoming style or trends in order to compete in comparative market.
+
+Principle 6- Testing is Context dependent
+Testing approach depends on context of software developed. Different types of software need to perform different types of testing.
+Example- The testing of the e-commerce site is different from testing of the Android application.
+
+Principle 7- Absence-of-errors fallacy
+If a built software is 99% bug free but it does not follow the user requirement then it is unusable.
+Example- You have someone build you a computer but never get memory or rams you wanted.
+
